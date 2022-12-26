@@ -1,2 +1,2 @@
 # Redirect all requests to the homepage
-/*    /https://www.google.com   200
+/*    https://www.google.com   200
